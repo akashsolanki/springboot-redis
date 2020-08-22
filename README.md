@@ -1,1 +1,1 @@
-# Demonstrates Springboot integration with Redis Server 
+# Springboot integration with Redis Server 
