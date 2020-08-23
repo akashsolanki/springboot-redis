@@ -1,0 +1,9 @@
+spring:
+  cache:
+    type: redis
+  redis:
+    port: 26379
+    sentinel:
+      master: mysentinel
+      nodes:
+        - 127.0.0.1
