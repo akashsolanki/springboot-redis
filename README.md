@@ -1,4 +1,4 @@
-# Springboot integration with Redis Sentinel
+# Springboot with Redis Sentinel using Docker Compose
 
 ```shell
 git clone https://github.com/akashsolanki/springboot-redis.git
