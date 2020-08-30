@@ -3,9 +3,9 @@
 ```shell
 git clone https://github.com/akashsolanki/springboot-redis.git
 ```
-
+Run below shell script which sets some env variable and triggers docker-compose up
 ```shell
-docker-compose up --build
+> ./start.sh`
 ```
 ```shell
 mvn spring-boot:run
