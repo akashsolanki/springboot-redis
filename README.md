@@ -17,6 +17,7 @@ curl --header "Content-Type: application/json" \
 curl --request GET http://localhost:8080
 ```
 
-Borrowed from - \
+
+## Borrowed from 
 https://github.com/mustafaileri/redis-cluster-with-sentinel \
 https://github.com/xavierchow/docker-redis-sentinel
