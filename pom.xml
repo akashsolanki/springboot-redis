@@ -28,6 +28,11 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 		<dependency>
+		    <groupId>redis.clients</groupId>
+		    <artifactId>jedis</artifactId>
+		    <version>3.3.0</version>
+		</dependency>
+		<dependency>
 		    <groupId>javax.inject</groupId>
 		    <artifactId>javax.inject</artifactId>
 		    <version>1</version>
@@ -42,11 +47,6 @@
 					<artifactId>junit-vintage-engine</artifactId>
 				</exclusion>
 			</exclusions>
-		</dependency>
-		<dependency>
-		    <groupId>redis.clients</groupId>
-		    <artifactId>jedis</artifactId>
-		    <version>3.3.0</version>
 		</dependency>
 	</dependencies>
 
